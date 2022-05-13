@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PDM-Pratica-08</string>
+    <string name="conectou">Conectou</string>
+    <string name="desconectou">Desconectou</string>
+    <string name="desbloqueada">Tela desbloqueada!</string>
+
+</resources>
